@@ -3,3 +3,4 @@ djangorestframework>=3.10
 django-filter
 psycopg2-binary
 coverage
+python-dotenv>=1.0.0
